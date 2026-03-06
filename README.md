@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matheus Neri!
 
 💻 **Software Developer | Passionate about building clean and functional systems**  
-🎯 Focused on Object-Oriented Programming, backend development, and real-world projects 
+🎯 Focused on Object-Oriented Programming, backend development, and real-world projects   
 🌱 Always learning new technologies and improving my skills  
 
 ---
