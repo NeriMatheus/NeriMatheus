@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matheus Neri!
 
 💻 **Software Developer | Passionate about building clean and functional systems**  
-🎯 Focused on Object-Oriented Programming, backend development, and real-world projects   
+🎯 Focused on Object-Oriented Programming, backend development, and real-world projects  
 🌱 Always learning new technologies and improving my skills  
 
 ---
@@ -14,8 +14,12 @@
 
 ---
 
-## 🚀 Featured Project
-- 💈 **[Barbershop Management System](https://github.com/NeriMatheus/barbershop-management-system)** – Java project to manage customers, employees, and service appointments, with OOP, Maven, and Spring Boot  
+## 🚀 Featured Projects
+- 💈 **[Barbershop Management System](https://github.com/NeriMatheus/barbershop-management-system)**  
+  Java project to manage customers, employees, and service appointments using OOP, Maven, and Spring Boot  
+
+- 🍔 **[Delivery Management System](https://github.com/NeriMatheus/delivery-management-system)**  
+  Backend system for managing orders, customers, and deliveries, focused on clean architecture, OOP principles, and scalable design  
 
 ---
 
